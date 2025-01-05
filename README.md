@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Elias Wendland
+- 👀 I’m interested in coding, system administration and computers in general
+- 🌱 I’m currently learning C# and Kubernetes
+- 📫 How to reach me: eliaswendland@pm.me
+- 😄 Pronouns: he/him
